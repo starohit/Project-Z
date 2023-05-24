@@ -9,4 +9,4 @@
 ## Day 4
     martices
 ## Day 5    
-    
+    numerical methods    
