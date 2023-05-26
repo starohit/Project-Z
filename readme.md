@@ -10,3 +10,5 @@
     martices
 ## Day 5    
     numerical methods    
+## Day 6
+    ML
