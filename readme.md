@@ -15,3 +15,4 @@
 ## Day 7
     networking overview
 ## Day 8
+    DBMS practicals
