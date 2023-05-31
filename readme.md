@@ -18,3 +18,4 @@
     DBMS practicals
 ## Day 9
     networking lab
+## Day 10
