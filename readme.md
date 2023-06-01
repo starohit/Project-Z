@@ -19,3 +19,4 @@
 ## Day 9
     networking lab
 ## Day 10
+    numerical methods
