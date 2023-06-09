@@ -42,4 +42,5 @@
     meeting and points
 ## Day 13
     random
-
+## Day 14
+    CN
