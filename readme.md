@@ -50,4 +50,5 @@
     CN question solvingsolving
 ## Day 17
     CN over 
-
+## Day 18 
+    Adv Java
