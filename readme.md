@@ -54,3 +54,5 @@
     Adv Java
 ## Day 19
     Java over ML start
+## Day 20
+    Mining Start
