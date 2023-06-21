@@ -56,3 +56,8 @@
     Java over ML start
 ## Day 20
     Mining Start
+## Day 21
+    DBMS
+## Day 22
+    exam 
+## Day 23
