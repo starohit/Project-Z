@@ -61,3 +61,4 @@
 ## Day 22
     exam 
 ## Day 23
+    numerical methods
