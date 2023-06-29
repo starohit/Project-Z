@@ -62,3 +62,9 @@
     exam 
 ## Day 23
     numerical methods
+## Day 24
+    canva course
+## Day 25
+    logo search stable diffusion
+## Day 26
+    mega
