@@ -68,3 +68,5 @@
     logo search stable diffusion
 ## Day 26
     mega
+## Day 27
+    GfG Start
