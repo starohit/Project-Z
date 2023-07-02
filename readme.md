@@ -72,3 +72,5 @@
     GfG Start
 ## Day 28
     Bits Manipulation
+## Day 29
+    INkSpace have every thing
