@@ -1,0 +1,63 @@
+# Cloud Platforms
+
+-> Operating system and hardware of a server in an Internet-based data centre.
+
+-> A cloud platform is like a digital playground on the internet. It offers all the computer stuff you need, such as operating systems, storage, and software, without needing your own physical machines. This makes it easier to create and run websites, apps, and other online services. It's like having a supercharged computer available anytime and anywhere you have internet access.
+
+-> Compute facilities, such as servers, databases, storage, analytics, networking, applications, and intelligence, are rented by businesses.
+
+
+
+## Types of Cloud Platforms:
+
+ |Public Cloud: Operated by third-party providers and offer computing resources to multiple users over the internet. Shared among various clients, making it cost-effective.
+
+ |Private Cloud: Created and maintained for a single organization. Control over security, performance, and customization.
+
+ |Hybrid Cloud: Advantage of the scalability and cost-efficiency of public clouds while keeping sensitive data and critical workloads in a private environment.
+
+ |Multi-Cloud: Multiple cloud providers, rather than relying solely on a single provider. Avoids Vendor lock-in.
+
+
+
+## Benefits of Cloud computing:
+
+ |Cost: 
+
+ |Scale:
+
+ |Performance:
+
+ |Security:
+
+ |Speed:
+
+ |Reliability:
+
+
+
+## Types of Services:
+
+ |The Infrastructure as a service (IaaS): We rent IT infrastructure-servers and virtual machines (VMs), storage, networks, and operating systems-on a pay-as-you-go basis from a cloud provider with IaaS.
+
+ |The Platform as a service (PaaS): You get a ready-to-use platform for developing, deploying, and managing applications.
+ 
+ |Software as a Service (SaaS): You don't need to install or maintain the software; you simply use it through a web browser.
+
+
+
+## Risks of Cloud Computing
+
+ |Data Loss.
+
+ |Hacked Interfaces and Insecure APIs.
+ 
+ |Data Breach.
+ 
+ |Vendor lock-in.
+
+ |Increased complexity strains IT staff.
+
+ |Spectre & Meltdown.
+
+ |Denial of Service (DoS) attacks.
