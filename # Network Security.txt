@@ -1,0 +1,123 @@
+# Network Security
+
+1. Fundamentals of Network Security:
+
+ Threats: Any potential danger that can exploit vulnerabilities and cause harm to systems, data, or networks.
+
+ Vulnerabilities: Weaknesses or flaws in systems, software, or processes that attackers can exploit to compromise security.
+
+ Attacks: Deliberate actions taken by malicious individuals or groups to exploit vulnerabilities and compromise the confidentiality, integrity, or availability of data or systems.
+
+ Countermeasures: Protective actions, strategies, and tools put in place to prevent, detect, mitigate, or respond to security threats and attacks.
+
+2. Types of Threats and Attacks:
+
+ + Malware: Bad software that can harm your computer or steal your information.
+
+ + Phishing: Tricky emails or messages that pretend to be from trusted sources, aiming to get your personal info.
+
+ + DoS and DDoS Attacks: Overloading a website or service so it can't work properly or is shut down temporarily.
+
+ + Man-in-the-Middle Attack: Sneaky listening to your online conversations or changing them without you knowing.
+
+ + SQL Injection: Sneaking into a website's database to steal or mess up its info.
+
+ + Cross-Site Scripting (XSS): Adding bad code to websites that can mess with your data or steal it.
+
+ + Data Breaches: Hackers getting into a system to steal important information.
+
+ + Ransomware: Locking up your computer or files until you pay a fee to unlock them.
+
+ + Insider Threats: People inside a company accidentally or on purpose causing security problems.
+
+ + Social Engineering: Tricking people into doing things that let hackers in, like sharing passwords.
+
+ + Zero-Day Exploits: Using secret ways to break into software before the makers know about it.
+
+ + Email Bombing: Sending a flood of emails to overwhelm someone's inbox, causing them trouble accessing legitimate messages.
+
+ + Spoofing: Faking an email address to make it look like it's from a trusted source, aiming to trick you into opening a malicious email.
+
+ + Malvertising: Placing malicious software in online ads to infect computers when users click on the ads.
+
+ + Keyloggers: Sneaky programs that record your keystrokes, capturing your passwords and sensitive information.
+
+ + Brute Force Attacks: Trying many different combinations of passwords until the right one is found, often used to break into accounts.
+
+ + Pharming: Redirecting users to fake websites without their knowledge to steal their information.
+
+ + Eavesdropping: Secretly listening to private conversations or data transmissions over networks.
+
+ + Session Hijacking: Taking over an ongoing computer session, often after stealing session-related information.
+
+ + Worms: Self-replicating malware that spreads quickly across networks and devices.
+
+ + Trojans: Malicious software disguised as harmless programs that can take control of your computer or steal your data.
+
+ + Logic Bombs: Malicious code that's triggered by a certain event, causing harm to a computer system.
+
+ + Drive-By Downloads: Downloading malicious software onto your computer without your knowledge when visiting a compromised website.
+
+ + Spyware: Collecting information about your online activities and sending it to someone without your consent.
+
+ + Adware: Displaying unwanted advertisements on your computer, often bundled with legitimate software.
+
+ + Password Attacks: Trying to guess or steal passwords to access accounts.
+
+ + Cryptojacking: Using your computer's power to make money for hackers by mining cryptocurrencies.
+
+ + IoT Vulnerabilities: Weak security in smart devices that lets hackers control them or get into your network.
+
+## Viruses(attatched, spreads) , Worms(malicius software, spreads) , Trojan(malicius but pretends not to be).
+
+ 
+## Types of Network Security Devices:
+
+ Firewalls
+Firewalls are one of the most fundamental network security appliances. Like many other security devices, firewalls can come in hardware or software forms. Most of the time, businesses choose to use dedicated, specialized hardware since it can handle more traffic and has better vendor support.
+Firewalls provide separation between your internal network and the wider Internet. They can block connections on specific ports, from specific IP addresses, and from machines or networks matching other criteria. Most firewalls are configured to deny incoming traffic by default, providing a baseline of security for your network.
+
+ VPN Gateways
+With the rise of remote work, every company needs to ensure that their internal network resources are accessible securely from anywhere. A virtual private network or VPN device can help here. In effect, when employees connect to the VPN, their traffic enters the internal network from the VPN device instead of going straight to the Internet.
+
+## Protocols for Secure Communication:
+
+SSL/TLS (Secure Sockets Layer/Transport Layer Security):
+
+SSL and its successor TLS are protocols that establish secure communication between a client (like a web browser) and a server.
+They use encryption to keep data private and ensure data integrity.
+SSL/TLS is widely used to secure online transactions, logins, and sensitive data exchange.
+IPsec (Internet Protocol Security):
+
+IPsec is a suite of protocols used to secure internet communication at the IP layer.
+It encrypts and authenticates data exchanged between devices, ensuring data privacy and integrity.
+IPsec is commonly used for virtual private networks (VPNs) and secure remote access.
+
+
+1. Firewalls:
+
+Contribution: Firewalls act as a barrier between a trusted internal network and untrusted external networks (like the internet).
+Function: They examine incoming and outgoing traffic based on predefined security rules. If traffic meets the criteria, it's allowed; otherwise, it's blocked.
+Types: Firewalls can be hardware or software-based, and they can be set up at different levels, such as network, application, or even individual devices.
+Benefits: Firewalls help prevent unauthorized access, protect against various types of attacks, and filter out potentially harmful content.
+2. Intrusion Detection Systems (IDS):
+
+Contribution: IDS monitors network traffic for suspicious or malicious activities.
+Function: It analyzes patterns in network traffic and compares them against known attack signatures or anomalies. If it detects unusual behavior, it generates alerts.
+Types: IDS can be network-based (NIDS) or host-based (HIDS).
+Benefits: IDS provides early detection of potential threats, allowing administrators to respond quickly to prevent breaches.
+3. Intrusion Prevention Systems (IPS):
+
+Contribution: IPS goes a step beyond IDS by actively blocking or preventing suspicious activities.
+Function: It not only detects but also takes automated actions to stop malicious traffic from entering the network.
+Benefits: IPS offers real-time protection against attacks and helps reduce the risk of successful intrusions.
+4. Anti-Virus Software:
+
+Contribution: Anti-virus software scans and removes or quarantines malicious software, such as viruses, worms, and trojans.
+Function: It compares files and programs against a database of known malware signatures.
+Benefits: Anti-virus software helps prevent malware infections and protects against spreading infected files.
+5. Virtual Private Networks (VPNs):
+
+Contribution: VPNs create encrypted "tunnels" over public networks, allowing secure communication between remote locations or users.
+Function: VPNs encrypt data, making it unreadable to eavesdroppers, and provide privacy and anonymity.
+Benefits: VPNs are essential for securing sensitive data transmitted over public networks, enabling remote access, and ensuring privac
