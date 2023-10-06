@@ -27,14 +27,18 @@ Student  Advisor  Adv-Room   Class1   Class2	Class3
 4123	 Smith	    216	    101-07    143-01	      179-04
 First normal form: No repeating groups
 
-Student#    Advisor	 Adv-Room	     Class#
+Student#    Advisor	 Adv-Room	          Class#
 ------------------------------------------------------
 1022	  Jones	         412	             101-07
 1022	  Jones	         412	             143-01
-1022	  Jones	         412                 159-02
-4123	  Smith	         216                 101-07
-4123	  Smith	         216                 143-01
-4123      Smith	         216                 179-04
+1022	  Jones	         412               159-02
+4123	  Smith	         216               101-07
+4123	  Smith	         216               143-01
+4123    Smith	         216               179-04
+
+
+                  |
+                  v
 
 
 Second normal form: Eliminate redundant data
@@ -57,6 +61,9 @@ Student#	Class#
 4123	        143-01
 4123	        179-04
 
+
+             |
+             v
 
 Third normal form: Eliminate data not dependent on key
 
